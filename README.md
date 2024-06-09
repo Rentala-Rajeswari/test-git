@@ -17,3 +17,5 @@ This is another para
 __Bold__
 __Italic__
 ---
+[This is link](https://google.com)
+![markdown image](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
