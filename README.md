@@ -20,7 +20,7 @@ __Italic__
 [This is link](https://google.com)
 ![markdown image](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 ---
-# lists:
+# lists: unordered list
 - item1
 - item2
 - item3
@@ -32,4 +32,17 @@ __Italic__
 + item2
 + item3
   * item 3.1
-  *item 3.2
+  * item 3.2
+
+
+# ordered list
+
+1 itemA
+2 itemB
+3 itemC
+4 itemD
+
+1. itemA
+2. itemB
+3. itemC
+4. itemD
