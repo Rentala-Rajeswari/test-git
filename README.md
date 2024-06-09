@@ -19,3 +19,11 @@ __Italic__
 ---
 [This is link](https://google.com)
 ![markdown image](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+---
+# lists:
+- item1
+- item2
+- item3
+  - item 3.1
+  - item 3.2
+  
